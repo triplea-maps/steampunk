@@ -1,0 +1,36 @@
+titlepiece.png (6760,2550)
+titlepiece2.png (6760,3100)
+
+britishinfantry.png (1,250)
+tripod.png (700,2100)
+dreadnaught.png (1000,1)
+
+germanhero.png (1100,800)
+titanicsinking.png (1100, 3000)
+tank2.png (2000,1800)
+tripod2.png (2800,1800)
+lancer.png (2100,500)
+
+steampunk_girl.png (3500,500)
+aerodyne.png (3500,3000)
+britishhero.png (3500,1500)
+
+china.png (4200,1200)
+
+RAAF.png (5400,3100)
+
+
+ninja4.png (5200,800)
+Daring.png (6000,700)
+teslagun.png (6000,2000)
+
+nautilus.png (5400,2300)
+
+
+columbia.png (1, 600)
+germaninfantry.png (7300,1200)
+
+
+
+
+
