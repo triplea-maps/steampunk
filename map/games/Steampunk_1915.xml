@@ -8230,8 +8230,6 @@
     <property name="Subs Can End NonCombat Move With Enemies" value="false" editable="false">
       <boolean/>
     </property>
-      <boolean/>
-    </property>
     <property name="Two hit battleship" value="true" editable="false">
       <boolean/>
     </property>
