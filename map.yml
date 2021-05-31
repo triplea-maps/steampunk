@@ -1,0 +1,3 @@
+map_name: steampunk
+games:
+- {game_name: Steampunk 1915, file_name: Steampunk_1915.xml}
